@@ -5,11 +5,12 @@ The workflow is contained in the jupyter notebook `workflow` and imports some fu
 
 Setup:
 
-1. Navigate to folder within an anaconda prompt.
-2. Create conda environment with command `conda env create -f nibio_pyhelios.yml`.
-3. Activate conda environment with `conda activate nibio_pyhelios`.
-4. Open jupyter notebooks with command `jupyter notebook`.
-5. Open notebook `workflow.ipynb` and run the steps as given!
+1. Download repo as ZIP or clone locally.
+2. Navigate to root folder within an anaconda prompt.
+3. Create conda environment with command `conda env create -f nibio_pyhelios.yml`.
+4. Activate conda environment with `conda activate nibio_pyhelios`.
+5. Open jupyter notebooks with command `jupyter notebook`.
+6. Open notebook `workflow.ipynb` and run the steps as given!
 
 Contents of workflow:
 1. An annotated forestry point cloud is loaded.
