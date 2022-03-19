@@ -1,0 +1,18 @@
+name: nibio_pyhelios
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - matplotlib
+  - notebook
+  - jupyter
+  - numpy
+  - scikit-learn
+  - pdal
+  - python-pdal
+  - ipympl
+  - laspy
+  - pip:
+    - laszip
